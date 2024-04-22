@@ -96,4 +96,9 @@
     "node": "~18.16.0",
     "npm": "~9.5.1"
   }
+  {
+  "scripts": {
+    "build": "[my-framework] build --output public"
+  }
+}
 }
